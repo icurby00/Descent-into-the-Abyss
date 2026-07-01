@@ -1,0 +1,43 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"TS_sandbricks",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"TS_sandbricks","closed_edge":false,"name":"TS_sandbricks","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
+        23,28,27,30,16,20,49,32,17,50,9,31,19,42,43,52,22,26,15,48,12,5,6,8,24,18,29,51,34,39,38,41,25,45,11,
+        4,13,7,35,40,33,37,14,44,36,46,47,
+      ],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"TS_sandbricks",
+  "out_columns":7,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"tile_sandbrick",
+    "path":"sprites/tile_sandbrick/tile_sandbrick.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":32,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":32,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":55,
+}

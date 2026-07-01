@@ -1,0 +1,43 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"TS_lightgloomygrass",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"ts_lightgloomygrass","closed_edge":false,"name":"ts_lightgloomygrass","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
+        58,39,38,41,27,31,60,43,28,61,20,42,30,53,54,63,33,37,26,59,23,16,17,19,35,29,40,62,45,50,49,52,25,56,
+        22,15,24,18,46,51,44,48,14,55,36,57,47,
+      ],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"TS_lightgloomygrass",
+  "out_columns":8,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"tileset_lightgloomygrass",
+    "path":"sprites/tileset_lightgloomygrass/tileset_lightgloomygrass.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":32,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":32,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":66,
+}

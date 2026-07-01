@@ -1,0 +1,14 @@
+// Script assets have changed for v2.3.0 see
+// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
+function DrawSetText(){
+	//	@desc DrawSetText(colour,font,halign,valign)
+///	@desc colour
+///	@desc font
+///	@desc halign
+/// @desc valign
+	
+draw_set_color(argument0);
+draw_set_font(argument1);
+draw_set_halign(argument2);
+draw_set_valign(argument3);
+}
